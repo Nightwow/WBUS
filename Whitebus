@@ -1,12 +1,12 @@
 [
   {
     "number": 0,
-    "route": "GEO",
+    "route": "W",
     "destZ": "暫停服務",
     "destY": "暫停服務",
     "maxPZ": "1",
-    "priceZ1": "1.0",
-    "halfpriceZ1": "2.0",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
     "maxPY": "1",
     "priceY1": "0.0",
     "halfpriceY1": "0.0"
