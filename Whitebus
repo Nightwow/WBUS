@@ -10,5 +10,17 @@
     "maxPY": "1",
     "priceY1": "0.0",
     "halfpriceY1": "0.0"
+  },
+  {
+    "number": 1,
+    "route": "23",
+    "destZ": "廣南邨",
+    "destY": "東點",
+    "maxPZ": "1",
+    "priceZ1": "7.0",
+    "halfpriceZ1": "3.5",
+    "maxPY": "1",
+    "priceY1": "7.0",
+    "halfpriceY1": "3.0"
   }
 ]
