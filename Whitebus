@@ -31,12 +31,12 @@
     "maxPZ": "2",
     "priceZ1": "15.0",
     "halfpriceZ1": "7.5",
-    "priceZ2": "7.0",
-    "halfpriceZ2": "3.5",
+    "priceZ1": "7.0",
+    "halfpriceZ1": "3.5",
     "maxPY": "2",
     "priceY1": "7.0",
     "halfpriceY1": "3.5",
-     "priceY2": "15.0",
-    "halfpriceY2": "7.5",
+     "priceY1": "15.0",
+    "halfpriceY1": "7.5",
   }
 ]
