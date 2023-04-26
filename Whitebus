@@ -22,5 +22,21 @@
     "maxPY": "1",
     "priceY1": "7.0",
     "halfpriceY1": "3.5"
+  },
+   {
+    "number": 2,
+    "route": "28A",
+    "destZ": "鐘門",
+    "destY": "中央轉車站",
+    "maxPZ": "2",
+    "priceZ1": "15.0",
+    "halfpriceZ1": "7.5",
+    "priceZ2": "7.0",
+    "halfpriceZ2": "3.5",
+    "maxPY": "2",
+    "priceY1": "7.0",
+    "halfpriceY1": "3.5"
+    "priceY2": "15.0",
+    "halfpriceY2": "7.5"
   }
 ]
